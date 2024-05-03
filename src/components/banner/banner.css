@@ -1,0 +1,45 @@
+#whole{
+    background-color: aliceblue;
+    text-align: left;
+    padding: 30px;
+    width: 1300px;
+    color: palevioletred;
+}
+.inputerror input{
+    border: 1px solid red;
+}
+#name{
+    margin-left: 117px;
+    margin-bottom: 40px;
+    outline: none;
+}
+.tex{
+    color: red;
+}
+#email{
+    margin-left: 121px;
+    margin-bottom: 40px;
+    outline: none;
+}
+#password{
+    margin-left: 92px;
+    margin-bottom: 40px;
+    outline: none;
+}
+#confirmPassword{
+    margin-left: 30px;
+    margin-bottom: 40px;
+    outline: none;
+}
+#but{
+    background-color: gray;
+    color: black;
+    padding: 5px;
+    margin-top: 20px;
+    margin-left: 150px;
+    border: none;
+    border-radius: 10%;
+}
+.error{
+    color: red;
+}
